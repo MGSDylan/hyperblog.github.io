@@ -9,6 +9,7 @@ Un blog increible para el uso de Git y Github de Platzi
 *El verdadero amor por las buenas practicas
 *Trucos muy loco del profesor
 *Las personalidades de freddy
+Creado por el increible platzi team
 
 y como un mable recordatorio **Este readme.ms es un chiste**. Diseñado 
 para el ejemplo.Si lleagas aca NO TE LO TOMES EN SERIO y mejor ve a 
